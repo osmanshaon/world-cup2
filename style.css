@@ -370,6 +370,10 @@ hr {
         grid-template-columns: repeat(2, 1fr);
     }
 
+    .view-all-btn{
+        display: flex;
+    }
+
     .watch-live {
         color           : white;
         background-color: tomato;
