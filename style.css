@@ -150,16 +150,16 @@ main {
     padding      : 15px;
 }
 
-.blog-banner{
-    display: flex;
+.blog-banner {
+    display    : flex;
     align-items: center;
 }
 
-.flag{
-    align-items: center;
+.flag {
+    align-items    : center;
     justify-content: right;
-    margin-left: 10px;
-    margin-right: 10px;
+    margin-left    : 10px;
+    margin-right   : 10px;
 }
 
 .flag img {
@@ -370,7 +370,7 @@ hr {
         grid-template-columns: repeat(2, 1fr);
     }
 
-    .view-all-btn{
+    .view-all-btn {
         display: flex;
     }
 
